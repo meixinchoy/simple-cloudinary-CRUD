@@ -23,6 +23,6 @@ app.set('view engine', 'html');
 app.set('views', __dirname + '/views');
 
 // Route
-app.use('/', require('./routes/user'))
+app.use('/', require('./routes/route'))
 
-app.listen(5000, () => console.log("Server is running"));
+app.listen(3000, () => console.log("Server is running at port 3000"));
