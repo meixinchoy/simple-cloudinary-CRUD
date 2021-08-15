@@ -1,6 +1,6 @@
 ## Storing Images using Nodejs, Multer, Cloudinary and MongoDB
 
-This is a simple Nodejs app that demonstrates the use of Multer, Cloudinary and MongoDB such that one is able to store their images in the cloud. 
+This is a simple Nodejs app that demonstrates the use of Multer, Cloudinary and MongoDB such that one is able to store their images on the cloud. 
 
 ### run this app
 
